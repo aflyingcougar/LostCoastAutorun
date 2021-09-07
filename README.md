@@ -1,4 +1,4 @@
-# SchanaModAutorun
+# LostCoastAutorun
 
 <https://github.com/schana/dayz-mod-autorun>
 
